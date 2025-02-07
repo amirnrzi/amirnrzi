@@ -1,6 +1,6 @@
 # Hi there, I'm Amir! 👋
 
-![GitHub Banner](https://i.postimg.cc/G3fX4gbN/DALL-E-2025-02-07-17-38-11-Git-Hub.png)
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 ### 🚀 Back-End Developer | Passionate about Django
 
@@ -9,7 +9,7 @@ I'm a back-end developer with a strong passion for creating scalable and efficie
 ## 🛠️ Tech Stack & Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/sql-2d516c?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
