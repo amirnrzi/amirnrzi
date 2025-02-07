@@ -1,6 +1,6 @@
 # Hi there, I'm Amir! 👋
 
-![GitHub Banner](https://i.postimg.cc/85Kqxrb0/DALL-E-2025-02-07-17-38-11-A-modern-and-stylish-Git-Hub-profile-banner-for-a-back-end-developer-nam.png)
+![GitHub Banner](https://i.postimg.cc/G3fX4gbN/DALL-E-2025-02-07-17-38-11-Git-Hub.png)
 
 ### 🚀 Back-End Developer | Passionate about Django
 
