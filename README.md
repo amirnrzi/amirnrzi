@@ -12,7 +12,7 @@ I'm a back-end developer with a strong passion for creating scalable and efficie
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-2d516c?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -22,7 +22,7 @@ I'm a back-end developer with a strong passion for creating scalable and efficie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirnrzi&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me:
-[![Email](https://img.shields.io/badge/Email-amirrezanorouzi9@gmail.com-red)](mailto:amirrezanorouzi9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amirrezanorouzi9@gmail.com-6600ff)](mailto:amirrezanorouzi9@gmail.com)
 
 ---
 🖥️ **"Turning ideas into reality through clean and efficient code."**
