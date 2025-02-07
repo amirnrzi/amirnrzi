@@ -25,4 +25,4 @@ I'm a back-end developer with a strong passion for creating scalable and efficie
 [![Email](https://img.shields.io/badge/Email-amirrezanorouzi9@gmail.com-6600ff)](mailto:amirrezanorouzi9@gmail.com)
 
 ---
-🖥️ **"Turning ideas into reality through clean and efficient code."**
+<p align="center">🖥️ **"Turning ideas into reality through clean and efficient code."**</p>
